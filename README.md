@@ -79,7 +79,7 @@ It is built using **Appium**, **Java**, and **TestNG**, following standard best 
 - Run Tests via Maven
    - Execute all tests:
   ```bash
-  mvn test
+  mvn clean test
   
 ## 📂 Project structure: 
 ```bash
