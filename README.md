@@ -11,6 +11,15 @@ It is built using **Appium**, **Java**, and **TestNG**, following standard best 
 - Clear **naming conventions** and **consistent structure**.
 
 ---
+## 📈 Report
+
+### 🏞️ Screenshot from Allure report
+![allure report](https://github.com/Tabaaza/Android_Automation_Monefy/blob/main/showcaseFile/OmarTabaz-N26-Monefy-I.png?raw=true)
+
+### 📼 Video recording of test running 
+![allure report](https://github.com/Tabaaza/Android_Automation_Monefy/blob/main/showcaseFile/OmarTabaz-N26-Monefy%202.mov?raw=true)
+
+---
 
 ## ✅ Covered Test Scenarios (E2E User Flows)
 
