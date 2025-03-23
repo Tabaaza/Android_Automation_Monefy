@@ -16,8 +16,12 @@ It is built using **Appium**, **Java**, and **TestNG**, following standard best 
 ### 🏞️ Screenshot from Allure report
 ![allure report](https://github.com/Tabaaza/Android_Automation_Monefy/blob/main/showcaseFile/OmarTabaz-N26-Monefy-I.png?raw=true)
 
+### 📼 Video recording of test running
+![running recording](https://github.com/Tabaaza/Android_Automation_Monefy/blob/main/showcaseFile/OmarTabaz-N26-Monefy.gif?raw=true)
+
+
 ### 📼 Video recording of test running 
-![allure report](https://github.com/Tabaaza/Android_Automation_Monefy/blob/main/showcaseFile/OmarTabaz-N26-Monefy%202.mov?raw=true)
+[Hereh is video recording](https://github.com/Tabaaza/Android_Automation_Monefy/blob/main/showcaseFile/OmarTabaz-N26-Monefy%202.mov?raw=true)
 
 ---
 
