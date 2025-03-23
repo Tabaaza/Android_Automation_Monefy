@@ -85,7 +85,7 @@ It is built using **Appium**, **Java**, and **TestNG**, following standard best 
 ```bash
     monefy-automation
     ├── apk
-    │   └── monefy.apk               # Monefy app APK (place it here)
+    │   └── monefy.apk               # Monefy app APK
     ├── src
     │   ├── main
     │   │   └── java
@@ -102,5 +102,5 @@ It is built using **Appium**, **Java**, and **TestNG**, following standard best 
     │               ├── AddExpenseTest.java
     │               ├── AddIncomeTest.java
     │               └── SettingTest.java
-    └── test-output                  # TestNG report output
-
+    └── target
+        └── allure-report
